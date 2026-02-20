@@ -4,6 +4,7 @@ let contactos = [];
 
 let seguir = true;
 
+// contacto
 let contacto = {
     id: 0,
     nombre: '',
